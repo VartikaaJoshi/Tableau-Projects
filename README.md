@@ -1,8 +1,11 @@
-**Tableau Visualization of Washington House Data
-Project Overview**
-This Tableau project focuses on the analysis of residential house data, offering insights into various aspects such as pricing, property features, and geographical distribution. The goal is to utilize the power of Tableau to create meaningful visualizations that aid in understanding the real estate market dynamics.
+***Tableau Visualization of Washington House Data***
 
-**Dataset**
+**Project Overview**
+
+This Tableau project focuses on the analysis of residential house data, offering insights into various aspects such as pricing, property features, and geographical distribution. 
+The goal is to utilize the power of Tableau to create meaningful visualizations that aid in understanding the real estate market dynamics.
+
+***Dataset***
 The dataset, HouseData.xlsx, includes several key features of houses:
 
 ID: Unique identifier
